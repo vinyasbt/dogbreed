@@ -10,10 +10,7 @@
       </a>
       
     </ul>
-    <!-- <div v-for="r in random" :key="r">
-      {{r.name}}
-      <img :src="r.picture" />
-    </div> -->
+    
     </div>
     <table class="photo">
       <div v-if="subBreed.length>0">
@@ -121,6 +118,7 @@ export default {
   width: 80%;
   background-color:black;
   margin-top: -3965px;
+  
 }
 
 .header{
