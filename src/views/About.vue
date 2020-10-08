@@ -48,7 +48,9 @@ console.log(this.dogAllImageArray)
   margin-top: -50px;
 }
 .label{
-    color: lightblue;
-    
+    color: lightblue; 
+}
+.grid:hover {
+  transform: scale(1.5); 
 }
 </style>

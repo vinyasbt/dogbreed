@@ -135,5 +135,8 @@ export default {
   height:25px;
   border-radius: 50%;
 }
+.dogimage:hover {
+  transform: scale(1.5); 
+}
 
 </style>
